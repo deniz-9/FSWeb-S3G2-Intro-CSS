@@ -10,7 +10,7 @@ a {
 }
 
 .container {
-    margin: 60px;
+    margin: 2.5%;
 }
 
 .navigation nav a {
@@ -84,7 +84,7 @@ header {
 }
 
 .introduction p {
-    padding-bottom: 3em;
+    padding-bottom: 2em;
 }
 
 .introduction img {
@@ -152,6 +152,7 @@ footer nav a {
     background-size: cover;
     background-repeat: no-repeat;
 }
- /* .ImgCont :last-child {
+
+/* .ImgCont :last-child {
     margin: 25px 45px;
 } */
